@@ -16,15 +16,49 @@
 ## 🎬 Demo Video
 
 <div align="center">
-  <h3>📱 See the platform in action</h3>
+  <div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 20px; border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); max-width: 900px; margin: 0 auto;">
+    <!-- Video Player Header -->
+    <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px 20px; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 15px;">
+      <div style="display: flex; align-items: center;">
+        <span style="background: #e63946; width: 12px; height: 12px; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
+        <span style="background: #f1c40f; width: 12px; height: 12px; border-radius: 50%; display: inline-block; margin-right: 8px;"></span>
+        <span style="background: #2ecc71; width: 12px; height: 12px; border-radius: 50%; display: inline-block;"></span>
+      </div>
+      <div style="color: #ffffff; font-weight: bold; font-size: 18px;">Ministry of Health Tweet Analyzer</div>
+      <div></div>
+    </div>
+    
+    <!-- Video Player Main Content -->
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; margin-bottom: 15px; background: #000;">
+      <a href="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/issues/3" target="_blank">
+        <img src="https://user-images.githubusercontent.com/26630412/233778055-1c34c5c1-66a3-4cbe-98be-c00c72e402de.jpg" alt="Demo Video Thumbnail" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; border-radius: 8px;">
+        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
+          <div style="width: 80px; height: 80px; background: rgba(0,0,0,0.7); border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+            <div style="width: 0; height: 0; border-top: 20px solid transparent; border-bottom: 20px solid transparent; border-left: 36px solid #fff; margin-left: 10px;"></div>
+          </div>
+        </div>
+      </a>
+    </div>
+    
+    <!-- Video Player Controls -->
+    <div style="display: flex; justify-content: space-between; align-items: center; padding: 5px 15px;">
+      <div style="display: flex; align-items: center;">
+        <div style="color: #fff; background: #e11d48; padding: 5px 10px; border-radius: 4px; font-weight: bold; margin-right: 15px;">▶️ Play</div>
+        <div style="width: 200px; height: 5px; background: rgba(255,255,255,0.2); border-radius: 3px; position: relative;">
+          <div style="width: 30%; height: 100%; background: #e11d48; border-radius: 3px;"></div>
+        </div>
+      </div>
+      <div>
+        <a href="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/issues/3" target="_blank" style="color: white; text-decoration: none; background: rgba(255,255,255,0.1); padding: 6px 12px; border-radius: 5px; font-weight: 500; display: inline-block;">
+          Watch Full Demo
+        </a>
+      </div>
+    </div>
+  </div>
   
-  <a href="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/issues/3" target="_blank">
-    <img src="https://github.com/user-images/26630412/demo-preview.jpg" width="640" alt="Demo Video Thumbnail" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-  </a>
-  
-  <p>
-    <a href="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/issues/3" target="_blank">
-      <strong>▶️ Watch Demo Video</strong>
+  <p style="margin-top: 20px; font-style: italic; color: #666;">
+    <a href="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/issues/3" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold;">
+      📺 See the platform in action with our full demo video
     </a>
   </p>
 </div>
