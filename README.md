@@ -23,9 +23,6 @@ This project is a modern web application that analyzes and visualizes Twitter da
 <div align="center">
   <h3>📹 Ministry of Health Tweet Analysis Platform Demo</h3>
   
-  <!-- 
-  NOT: Bu video görünmüyorsa, bu videoyu GitHub Issues'a yüklemeniz gerekmektedir.
-  
   Adımlar:
   1. Repo sayfasında "Issues" sekmesine tıklayın
   2. "New issue" butonuna tıklayın
@@ -34,7 +31,7 @@ This project is a modern web application that analyzes and visualizes Twitter da
   5. Bu bağlantıyı aşağıdaki REPLACE_WITH_VIDEO_LINK yerine yapıştırın
   -->
   
-  REPLACE_WITH_VIDEO_LINK
+  https://github.com/user-attachments/assets/695a2028-1cc7-44c5-93f9-bb40c5b82fb1
 </div>
 
 ## Installation
