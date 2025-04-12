@@ -18,29 +18,23 @@ This project is a modern web application that analyzes and visualizes Twitter da
 - **Animations**: Framer Motion
 - **Data Visualization**: D3.js, Chart.js
 
-## Screenshots and Demo
-
-### Demo Video
+## Demo Video
 
 <div align="center">
   <h3>📹 Ministry of Health Tweet Analysis Platform Demo</h3>
   
-  <video width="100%" controls style="max-width: 800px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);">
-    <source src="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/releases/download/untagged-ff3f0fb7fd77209967bc/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <!-- 
+  NOT: Bu video görünmüyorsa, bu videoyu GitHub Issues'a yüklemeniz gerekmektedir.
   
-  <p style="margin-top: 12px; font-style: italic; color: #666;">
-    <a href="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/releases/download/untagged-ff3f0fb7fd77209967bc/demo.mp4" target="_blank" style="font-weight: bold; text-decoration: none; color: #0366d6;">
-      ▶️ Download Full Demo Video
-    </a>
-  </p>
-</div>
-
-### Key Features Demonstrated
-
-<div align="center">
-  <img width="100%" alt="Demo Preview" src="https://i.imgur.com/6BXTEon.png" style="max-width: 800px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  Adımlar:
+  1. Repo sayfasında "Issues" sekmesine tıklayın
+  2. "New issue" butonuna tıklayın
+  3. Video dosyasını sürükleyin ve bırakın
+  4. Yükleme tamamlandığında, GitHub'ın verdiği markdown bağlantısını kopyalayın
+  5. Bu bağlantıyı aşağıdaki REPLACE_WITH_VIDEO_LINK yerine yapıştırın
+  -->
+  
+  REPLACE_WITH_VIDEO_LINK
 </div>
 
 ## Installation
