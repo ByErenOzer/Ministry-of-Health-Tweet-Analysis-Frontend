@@ -23,18 +23,25 @@ This project is a modern web application that analyzes and visualizes Twitter da
 ### Demo Video
 
 <div align="center">
-  <a href="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/raw/main/docs/demo-video.mp4" target="_blank">
-    <img width="600" alt="Demo Video Thumbnail" src="https://i.imgur.com/6BXTEon.png" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <br/>
-    <strong>▶️ Watch Demo Video (80.5 MB)</strong>
-  </a>
-  <p><i>Click on the image above to download and watch the full demo video</i></p>
+  <h3>📹 Ministry of Health Tweet Analysis Platform Demo</h3>
+  
+  <video width="100%" controls style="max-width: 800px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);">
+    <source src="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/releases/download/untagged-ff3f0fb7fd77209967bc/demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
+  <p style="margin-top: 12px; font-style: italic; color: #666;">
+    <a href="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/releases/download/untagged-ff3f0fb7fd77209967bc/demo.mp4" target="_blank" style="font-weight: bold; text-decoration: none; color: #0366d6;">
+      ▶️ Download Full Demo Video
+    </a>
+  </p>
 </div>
 
-### Quick Demo Preview
-This demo preview GIF shows some of the main features:
+### Key Features Demonstrated
 
-![Demo Preview](https://i.imgur.com/6BXTEon.png)
+<div align="center">
+  <img width="100%" alt="Demo Preview" src="https://i.imgur.com/6BXTEon.png" style="max-width: 800px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
 
 ## Installation
 
