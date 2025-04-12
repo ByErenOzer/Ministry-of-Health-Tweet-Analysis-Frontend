@@ -6,10 +6,27 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)](https://d3js.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **Modern social media analytics platform for the Turkish Ministry of Health tweets**
 
+</div>
+
+## 🎬 Demo Video
+
+<div align="center">
+  <h3>📱 See the platform in action</h3>
+  
+  <a href="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/issues/3" target="_blank">
+    <img src="https://github.com/user-images/26630412/demo-preview.jpg" width="640" alt="Demo Video Thumbnail" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+  </a>
+  
+  <p>
+    <a href="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/issues/3" target="_blank">
+      <strong>▶️ Watch Demo Video</strong>
+    </a>
+  </p>
 </div>
 
 ---
@@ -37,6 +54,7 @@
 - Flask API backend
 - D3.js data visualization
 - Framer Motion animations
+- Vite build system
 
 </td>
 </tr>
@@ -63,17 +81,6 @@
 </td>
 </tr>
 </table>
-</div>
-
-## 🎬 Demo Video
-
-<div align="center">
-  <h3>📱 See the platform in action</h3>
-  
-  <video controls width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
-    <source src="https://github.com/user-attachments/assets/695a2028-1cc7-44c5-93f9-bb40c5b82fb1" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
 </div>
 
 ## 🌟 Features
@@ -181,8 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-ByErenOzer-181717?style=for-the-badge&logo=github)](https://github.com/ByErenOzer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ErenOzer-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/erenozer)
-[![Twitter](https://img.shields.io/badge/Twitter-@ErenOzer-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/erenozer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ErenOzer-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eren-%C3%B6zer/)
 
 </div>
 
