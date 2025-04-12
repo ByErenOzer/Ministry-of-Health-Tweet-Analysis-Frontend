@@ -23,7 +23,7 @@ This project is a modern web application that analyzes and visualizes Twitter da
 ### Demo Video
 
 <div align="center">
-  <a href="[https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/raw/main/docs/demo-video.mp4](https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/releases/download/untagged-ff3f0fb7fd77209967bc/demo.mp4)" target="_blank">
+  <a href="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/raw/main/docs/demo-video.mp4](https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/releases/download/untagged-ff3f0fb7fd77209967bc/demo.mp4)" target="_blank">
     <img width="600" alt="Demo Video Thumbnail" src="https://i.imgur.com/6BXTEon.png" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <br/>
     <strong>▶️ Watch Demo Video (80.5 MB)</strong>
