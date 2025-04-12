@@ -1,70 +1,70 @@
-# Sağlık Bakanlığı Twitter Analiz Platformu
+# Ministry of Health Tweet Analysis Platform
 
-Bu proje, T.C. Sağlık Bakanlığı'nın Twitter verilerini analiz eden ve görselleştiren modern bir web uygulamasıdır.
+This project is a modern web application that analyzes and visualizes Twitter data from the Turkish Ministry of Health.
 
-## Özellikler
+## Features
 
-- **Twitter Veri Çekme**: Belirtilen tarih aralığında Sağlık Bakanlığı'na ait tweetleri otomatik olarak çeker
-- **Duygu Analizi**: Tweet içeriklerinin duygusal tonunu analiz eder (olumlu, olumsuz, nötr)
-- **Kategori Analizi**: Tweet içeriklerini konulara göre sınıflandırır
-- **Nefret Söylemi Tespiti**: Zararlı içerikleri tespit eder ve raporlar
-- **Trend Analizi**: Zaman içindeki değişimleri ve trendleri görselleştirir
-- **Modern Arayüz**: Kullanıcı dostu, kolay anlaşılır ve etkileşimli grafikler
-- **Yönetim Paneli**: Veri toplama ve analiz süreçlerini yönetme imkanı
+- **Twitter Data Scraping**: Automatically collects tweets from the Ministry of Health within a specified date range
+- **Sentiment Analysis**: Analyzes the emotional tone of tweet contents (positive, negative, neutral)
+- **Category Analysis**: Classifies tweet contents by topics
+- **Hate Speech Detection**: Identifies and reports harmful content
+- **Trend Analysis**: Visualizes changes and trends over time
+- **Modern Interface**: User-friendly, easy-to-understand, and interactive graphics
+- **Admin Panel**: Provides capabilities to manage data collection and analysis processes
 
-## Teknolojiler
+## Technologies
 
 - **Frontend**: React, TypeScript, TailwindCSS, Shadcn UI, D3.js
-- **Animasyonlar**: Framer Motion
-- **Veri Görselleştirme**: D3.js, Chart.js
+- **Animations**: Framer Motion
+- **Data Visualization**: D3.js, Chart.js
 
-## Ekran Görüntüleri ve Demo
+## Screenshots and Demo
 
 ### Demo Video
 
-Uygulamanın demo videosunu izlemek için aşağıdaki bağlantıya tıklayın:
+Click on the link below to watch the demo video of the application:
 
-[Demo Video](https://github.com/ByErenOzer/Saglik-Bakanligi-Twitter-Analizi-Frontend/raw/main/docs/demo-video.mp4)
+[Demo Video](https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/raw/main/docs/demo-video.mp4)
 
-*(Not: Video GitHub'a yüklendikten sonra doğru URL ile güncellenecektir)*
+*(Note: The URL will be updated after the video is uploaded to GitHub)*
 
-## Kurulum
+## Installation
 
 ```bash
-# Depoyu klonlayın
-git clone https://github.com/ByErenOzer/Saglik-Bakanligi-Twitter-Analizi-Frontend.git
+# Clone the repository
+git clone https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend.git
 
-# Proje dizinine gidin
-cd Saglik-Bakanligi-Twitter-Analizi-Frontend
+# Navigate to the project directory
+cd Ministry-of-Health-Tweet-Analysis-Frontend
 
-# Bağımlılıkları yükleyin
+# Install dependencies
 npm install
 
-# Geliştirme sunucusunu başlatın
+# Start the development server
 npm run dev
 ```
 
-## Kullanım
+## Usage
 
-1. Uygulamayı başlattıktan sonra tarayıcınızda `http://localhost:5173` adresine gidin
-2. Sol üstteki "Yönetim" butonuna tıklayarak admin paneline erişin
-3. Tarih aralığı seçerek veri çekme işlemini başlatın
-4. Ana sayfadaki sekmeleri kullanarak farklı analiz sonuçlarını görüntüleyin
+1. After starting the application, go to `http://localhost:5173` in your browser
+2. Click the "Management" button in the top left to access the admin panel
+3. Select a date range to initiate data collection
+4. Use the tabs on the main page to view different analysis results
 
-## Katkıda Bulunma
+## Contributing
 
-Projeye katkıda bulunmak istiyorsanız:
+If you want to contribute to this project:
 
-1. Bu depoyu forklayın
-2. Özellik dalı oluşturun (`git checkout -b yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik eklendi'`)
-4. Dalınızı ana depoya gönderin (`git push origin yeni-ozellik`)
-5. Pull Request açın
+1. Fork this repository
+2. Create a feature branch (`git checkout -b new-feature`)
+3. Commit your changes (`git commit -m 'Added new feature'`)
+4. Push to the branch (`git push origin new-feature`)
+5. Open a Pull Request
 
-## Lisans
+## License
 
-Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
+This project is licensed under the [MIT](LICENSE) license.
 
-## İletişim
+## Contact
 
 Eren Özer - [GitHub](https://github.com/ByErenOzer)
