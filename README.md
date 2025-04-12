@@ -16,7 +16,7 @@
 ## 🎬 Video
 
 <div align="center">
-  <h3>📹 Ministry of Health Tweet Analysis Platform Demo</h3>
+  <h3>📹 Ministry of Health Tweet Analysis Platform </h3>
   
   https://github.com/user-attachments/assets/695a2028-1cc7-44c5-93f9-bb40c5b82fb1
 </div>
