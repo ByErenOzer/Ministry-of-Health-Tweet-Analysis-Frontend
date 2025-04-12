@@ -11,23 +11,12 @@
 
 **Modern social media analytics platform for the Turkish Ministry of Health tweets**
 
-</div>
+</div align="center">
 
-## 🎬 Demo Video
+## 🎬 Video
 
 <div align="center">
   <h3>📹 Ministry of Health Tweet Analysis Platform Demo</h3>
-  
-  <!-- 
-  NOT: Bu video görünmüyorsa, bu videoyu GitHub Issues'a yüklemeniz gerekmektedir.
-  
-  Adımlar:
-  1. Repo sayfasında "Issues" sekmesine tıklayın
-  2. "New issue" butonuna tıklayın
-  3. Video dosyasını sürükleyin ve bırakın
-  4. Yükleme tamamlandığında, GitHub'ın verdiği markdown bağlantısını kopyalayın
-  5. Bu bağlantıyı aşağıdaki REPLACE_WITH_VIDEO_LINK yerine yapıştırın
-  -->
   
   https://github.com/user-attachments/assets/695a2028-1cc7-44c5-93f9-bb40c5b82fb1
 </div>
