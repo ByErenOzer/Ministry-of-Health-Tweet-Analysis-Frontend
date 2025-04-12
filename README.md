@@ -49,7 +49,7 @@
         </div>
       </div>
       <div>
-        <a href="https://github.com/ByErenOzer/Ministry-of-Health-Tweet-Analysis-Frontend/issues/3" target="_blank" style="color: white; text-decoration: none; background: rgba(255,255,255,0.1); padding: 6px 12px; border-radius: 5px; font-weight: 500; display: inline-block;">
+        <a href="https://github.com/user-attachments/assets/695a2028-1cc7-44c5-93f9-bb40c5b82fb1" target="_blank" style="color: white; text-decoration: none; background: rgba(255,255,255,0.1); padding: 6px 12px; border-radius: 5px; font-weight: 500; display: inline-block;">
           Watch Full Demo
         </a>
       </div>
