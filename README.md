@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Banner](https://user-images.githubusercontent.com/26630412/233778051-12345678-abcd-efgh-ijkl-123456789012.jpg)
-
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -72,11 +70,10 @@
 <div align="center">
   <h3>📱 See the platform in action</h3>
   
-  <a href="https://github.com/user-attachments/assets/695a2028-1cc7-44c5-93f9-bb40c5b82fb1" target="_blank">
-    <img src="https://i.imgur.com/pWnA6M1.png" width="640" alt="Demo Video Thumbnail" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  </a>
-  
-  ▶️ [**Watch Full Demo**](https://github.com/user-attachments/assets/695a2028-1cc7-44c5-93f9-bb40c5b82fb1)
+  <video controls width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);">
+    <source src="https://github.com/user-attachments/assets/695a2028-1cc7-44c5-93f9-bb40c5b82fb1" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ## 🌟 Features
@@ -88,14 +85,20 @@
 
 ### 📈 Sentiment Analysis
 
-![Sentiment Analysis](https://i.imgur.com/cIzdnUn.png)
+- Emotional tone detection
+- Positive/negative classification
+- Neutral content identification
+- Temporal sentiment tracking
 
 </td>
 <td width="50%" align="center">
 
 ### 🔥 Trend Detection
 
-![Trend Detection](https://i.imgur.com/QCYnkTZ.png)
+- Hot topic identification
+- Rising hashtag detection
+- Viral content alerts
+- Engagement pattern analysis
 
 </td>
 </tr>
@@ -104,14 +107,20 @@
 
 ### 🔠 Category Classification
 
-![Category Classification](https://i.imgur.com/HEbsYCt.png)
+- Automated topic sorting
+- Healthcare category detection
+- Policy announcement tracking
+- Public service categorization
 
 </td>
 <td width="50%" align="center">
 
 ### 👥 User Analytics
 
-![User Analytics](https://i.imgur.com/JKGjxF9.png)
+- Engagement statistics
+- Demographic insights
+- Interaction patterns
+- Follow/sharing behavior
 
 </td>
 </tr>
@@ -133,10 +142,6 @@ npm install
 # Start the development server
 npm run dev
 ```
-
-<div align="center">
-  <img src="https://i.imgur.com/bqJAH7T.png" width="600" alt="Installation" style="border-radius: 10px;">
-</div>
 
 ## 🖥️ Usage
 
