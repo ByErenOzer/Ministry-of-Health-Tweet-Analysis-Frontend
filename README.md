@@ -143,7 +143,7 @@ npm run dev
 
 ## 🖥️ Usage
 
-1. Launch the application by navigating to `http://localhost:5173` in your browser
+1. Launch the application by navigating to `http://localhost:8080` in your browser
 2. Access the admin panel by clicking on the "Management" button in the top left corner
 3. Select a date range to initiate tweet data collection
 4. Explore the various analysis tabs to view different insights:
@@ -151,24 +151,6 @@ npm run dev
    - Sentiment Analysis: Emotional tone of tweets
    - Category Analysis: Topic-based classification
    - Trend Analysis: Temporal patterns and emerging topics
-
-## 🛣️ Roadmap
-
-- [ ] **AI-Powered Predictions** - Implement predictive analytics for future trends
-- [ ] **Multi-Platform Support** - Add integration with other social media platforms
-- [ ] **Advanced Visualization** - Develop more interactive and customizable charts
-- [ ] **Notification System** - Create alerts for significant trend changes
-- [ ] **Export Capabilities** - Enable data export in multiple formats
-
-## 🤝 Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📜 License
 
